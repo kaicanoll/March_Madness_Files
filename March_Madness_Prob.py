@@ -13,7 +13,7 @@ Sample_Space = 2**63
 #Team = [seed,win]
 import os
 import math
-os.chdir("/Users/kaica/Documents")
+#os.chdir("/Users/kaica/Documents")
 import csv
 adjust_prob= True #Keep on
 num_of_sims =1000 #How Many Simulations do you run, 1000 = quickest,
